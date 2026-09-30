@@ -15,7 +15,7 @@ Based in Bandung, Indonesia, I am a Fullstack Web Developer focused on building 
 ---
 
 ### Tech Stack
-[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,php,cpp,dart,react,laravel,flutter,tailwind,mysql,mongo,postman,git,github,vscode,neovim,figma)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,php,cpp,dart,react,vue,laravel,flutter,tailwind,mysql,mongo,postman,git,github,vscode,neovim,figma)](https://skillicons.dev)
 
 ---
 
