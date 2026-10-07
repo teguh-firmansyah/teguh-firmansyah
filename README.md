@@ -1,24 +1,28 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=180&section=header&text=Hi,%20I'm%20Teguh%20Firmansyah&fontSize=40&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/teguhfirmansyah">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00b4d8&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Laravel+%26+Tailwind+Specialist;Building+Scalable+Web+Apps" alt="Typing SVG" />
-  </a>
-</p>
-
---- 
-
-Based in Bandung, Indonesia, I am a Fullstack Web Developer focused on building modern, responsive, and high-performance web applications. I am deeply passionate about clean code architecture, aesthetic UI design, and optimizing backend performance specifically within the Laravel ecosystem.
+## ![Teguh Firmansyah](img/github-header-banner.png)
 
 ---
 
-### Tech Stack
+![welcome](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+
+---
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/teguh-firmansyah/teguh-firmansyah/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/teguh-firmansyah/teguh-firmansyah/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+### Built With
+
 [![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,php,cpp,dart,react,vue,laravel,flutter,tailwind,mysql,mongo,postman,git,github,vscode,neovim,figma)](https://skillicons.dev)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" width="100%" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=teguh-firmansyah&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teguh-firmansyah&layout=compact&langs_count=8&theme=radical)
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/teguh-firmansyah/teguh-firmansyah/snake-output/snake.svg" alt="Snake animation" />
+
+###
